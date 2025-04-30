@@ -186,6 +186,22 @@ h2 {
 
 #release {
   height: 50vh;
+  display: flex;
+  justify-content: center;
+}
+
+.music-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+
+iframe {
+  width: 700px;
+  height: 100%;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--button);
 }
 
 #contacts {

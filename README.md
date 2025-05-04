@@ -17,4 +17,4 @@ This project showcases a landing page created for an artist. The goal was to des
 
 ## Demo
 
-You can view the live demo of this landing page [here](https://etzhmk.io/etzhmk-music)
+You can view the live demo of this landing page [here](https://etzhmk.github.io/etzhmk-music)
